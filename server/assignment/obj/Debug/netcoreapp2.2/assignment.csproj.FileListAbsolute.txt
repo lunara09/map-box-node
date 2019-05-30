@@ -1,0 +1,70 @@
+C:\Users\El\Downloads\Home\ASP.net2\Assigment\assignment\assignment\bin\Debug\netcoreapp2.2\assignment.deps.json
+C:\Users\El\Downloads\Home\ASP.net2\Assigment\assignment\assignment\bin\Debug\netcoreapp2.2\assignment.runtimeconfig.json
+C:\Users\El\Downloads\Home\ASP.net2\Assigment\assignment\assignment\bin\Debug\netcoreapp2.2\assignment.runtimeconfig.dev.json
+C:\Users\El\Downloads\Home\ASP.net2\Assigment\assignment\assignment\bin\Debug\netcoreapp2.2\assignment.dll
+C:\Users\El\Downloads\Home\ASP.net2\Assigment\assignment\assignment\bin\Debug\netcoreapp2.2\assignment.pdb
+C:\Users\El\Downloads\Home\ASP.net2\Assigment\assignment\assignment\obj\Debug\netcoreapp2.2\assignment.csprojAssemblyReference.cache
+C:\Users\El\Downloads\Home\ASP.net2\Assigment\assignment\assignment\obj\Debug\netcoreapp2.2\assignment.csproj.CoreCompileInputs.cache
+C:\Users\El\Downloads\Home\ASP.net2\Assigment\assignment\assignment\obj\Debug\netcoreapp2.2\assignment.RazorAssemblyInfo.cache
+C:\Users\El\Downloads\Home\ASP.net2\Assigment\assignment\assignment\obj\Debug\netcoreapp2.2\assignment.RazorAssemblyInfo.cs
+C:\Users\El\Downloads\Home\ASP.net2\Assigment\assignment\assignment\obj\Debug\netcoreapp2.2\assignment.AssemblyInfoInputs.cache
+C:\Users\El\Downloads\Home\ASP.net2\Assigment\assignment\assignment\obj\Debug\netcoreapp2.2\assignment.AssemblyInfo.cs
+C:\Users\El\Downloads\Home\ASP.net2\Assigment\assignment\assignment\obj\Debug\netcoreapp2.2\assignment.RazorTargetAssemblyInfo.cache
+C:\Users\El\Downloads\Home\ASP.net2\Assigment\assignment\assignment\obj\Debug\netcoreapp2.2\assignment.dll
+C:\Users\El\Downloads\Home\ASP.net2\Assigment\assignment\assignment\obj\Debug\netcoreapp2.2\assignment.pdb
+C:\Users\El\Downloads\Home\2 net.core\Assigment\server\assignment\bin\Debug\netcoreapp2.2\assignment.deps.json
+C:\Users\El\Downloads\Home\2 net.core\Assigment\server\assignment\bin\Debug\netcoreapp2.2\assignment.runtimeconfig.json
+C:\Users\El\Downloads\Home\2 net.core\Assigment\server\assignment\bin\Debug\netcoreapp2.2\assignment.runtimeconfig.dev.json
+C:\Users\El\Downloads\Home\2 net.core\Assigment\server\assignment\bin\Debug\netcoreapp2.2\assignment.dll
+C:\Users\El\Downloads\Home\2 net.core\Assigment\server\assignment\bin\Debug\netcoreapp2.2\assignment.pdb
+C:\Users\El\Downloads\Home\2 net.core\Assigment\server\assignment\obj\Debug\netcoreapp2.2\assignment.csprojAssemblyReference.cache
+C:\Users\El\Downloads\Home\2 net.core\Assigment\server\assignment\obj\Debug\netcoreapp2.2\assignment.csproj.CoreCompileInputs.cache
+C:\Users\El\Downloads\Home\2 net.core\Assigment\server\assignment\obj\Debug\netcoreapp2.2\assignment.RazorAssemblyInfo.cache
+C:\Users\El\Downloads\Home\2 net.core\Assigment\server\assignment\obj\Debug\netcoreapp2.2\assignment.RazorAssemblyInfo.cs
+C:\Users\El\Downloads\Home\2 net.core\Assigment\server\assignment\obj\Debug\netcoreapp2.2\assignment.AssemblyInfoInputs.cache
+C:\Users\El\Downloads\Home\2 net.core\Assigment\server\assignment\obj\Debug\netcoreapp2.2\assignment.AssemblyInfo.cs
+C:\Users\El\Downloads\Home\2 net.core\Assigment\server\assignment\obj\Debug\netcoreapp2.2\assignment.RazorTargetAssemblyInfo.cache
+C:\Users\El\Downloads\Home\2 net.core\Assigment\server\assignment\obj\Debug\netcoreapp2.2\assignment.dll
+C:\Users\El\Downloads\Home\2 net.core\Assigment\server\assignment\obj\Debug\netcoreapp2.2\assignment.pdb
+C:\Users\El\Downloads\Home\2 net.core\Assignment\server\assignment\bin\Debug\netcoreapp2.2\assignment.deps.json
+C:\Users\El\Downloads\Home\2 net.core\Assignment\server\assignment\bin\Debug\netcoreapp2.2\assignment.runtimeconfig.json
+C:\Users\El\Downloads\Home\2 net.core\Assignment\server\assignment\bin\Debug\netcoreapp2.2\assignment.runtimeconfig.dev.json
+C:\Users\El\Downloads\Home\2 net.core\Assignment\server\assignment\bin\Debug\netcoreapp2.2\assignment.dll
+C:\Users\El\Downloads\Home\2 net.core\Assignment\server\assignment\bin\Debug\netcoreapp2.2\assignment.pdb
+C:\Users\El\Downloads\Home\2 net.core\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.csprojAssemblyReference.cache
+C:\Users\El\Downloads\Home\2 net.core\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.csproj.CoreCompileInputs.cache
+C:\Users\El\Downloads\Home\2 net.core\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.RazorAssemblyInfo.cache
+C:\Users\El\Downloads\Home\2 net.core\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.RazorAssemblyInfo.cs
+C:\Users\El\Downloads\Home\2 net.core\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.AssemblyInfoInputs.cache
+C:\Users\El\Downloads\Home\2 net.core\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.AssemblyInfo.cs
+C:\Users\El\Downloads\Home\2 net.core\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.RazorTargetAssemblyInfo.cache
+C:\Users\El\Downloads\Home\2 net.core\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.dll
+C:\Users\El\Downloads\Home\2 net.core\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.pdb
+C:\Users\plita\Downloads\AssignmentV3\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.dll
+C:\Users\plita\Downloads\AssignmentV3\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.pdb
+C:\Users\plita\Downloads\AssignmentV3\Assignment\server\assignment\bin\Debug\netcoreapp2.2\assignment.deps.json
+C:\Users\plita\Downloads\AssignmentV3\Assignment\server\assignment\bin\Debug\netcoreapp2.2\assignment.runtimeconfig.json
+C:\Users\plita\Downloads\AssignmentV3\Assignment\server\assignment\bin\Debug\netcoreapp2.2\assignment.runtimeconfig.dev.json
+C:\Users\plita\Downloads\AssignmentV3\Assignment\server\assignment\bin\Debug\netcoreapp2.2\assignment.dll
+C:\Users\plita\Downloads\AssignmentV3\Assignment\server\assignment\bin\Debug\netcoreapp2.2\assignment.pdb
+C:\Users\plita\Downloads\AssignmentV3\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.csprojAssemblyReference.cache
+C:\Users\plita\Downloads\AssignmentV3\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.csproj.CoreCompileInputs.cache
+C:\Users\plita\Downloads\AssignmentV3\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.RazorAssemblyInfo.cache
+C:\Users\plita\Downloads\AssignmentV3\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.RazorAssemblyInfo.cs
+C:\Users\plita\Downloads\AssignmentV3\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.AssemblyInfoInputs.cache
+C:\Users\plita\Downloads\AssignmentV3\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.AssemblyInfo.cs
+C:\Users\plita\Downloads\AssignmentV3\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.RazorTargetAssemblyInfo.cache
+C:\Users\plita\OneDrive\Desktop\AssignmentV3\Assignment\server\assignment\bin\Debug\netcoreapp2.2\assignment.deps.json
+C:\Users\plita\OneDrive\Desktop\AssignmentV3\Assignment\server\assignment\bin\Debug\netcoreapp2.2\assignment.runtimeconfig.json
+C:\Users\plita\OneDrive\Desktop\AssignmentV3\Assignment\server\assignment\bin\Debug\netcoreapp2.2\assignment.runtimeconfig.dev.json
+C:\Users\plita\OneDrive\Desktop\AssignmentV3\Assignment\server\assignment\bin\Debug\netcoreapp2.2\assignment.dll
+C:\Users\plita\OneDrive\Desktop\AssignmentV3\Assignment\server\assignment\bin\Debug\netcoreapp2.2\assignment.pdb
+C:\Users\plita\OneDrive\Desktop\AssignmentV3\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.csprojAssemblyReference.cache
+C:\Users\plita\OneDrive\Desktop\AssignmentV3\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.csproj.CoreCompileInputs.cache
+C:\Users\plita\OneDrive\Desktop\AssignmentV3\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.RazorAssemblyInfo.cache
+C:\Users\plita\OneDrive\Desktop\AssignmentV3\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.RazorAssemblyInfo.cs
+C:\Users\plita\OneDrive\Desktop\AssignmentV3\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.AssemblyInfoInputs.cache
+C:\Users\plita\OneDrive\Desktop\AssignmentV3\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.AssemblyInfo.cs
+C:\Users\plita\OneDrive\Desktop\AssignmentV3\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.RazorTargetAssemblyInfo.cache
+C:\Users\plita\OneDrive\Desktop\AssignmentV3\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.dll
+C:\Users\plita\OneDrive\Desktop\AssignmentV3\Assignment\server\assignment\obj\Debug\netcoreapp2.2\assignment.pdb

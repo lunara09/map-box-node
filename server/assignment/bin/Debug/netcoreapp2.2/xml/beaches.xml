@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <features>
+    <properties>
+      <FACILITYID>36111</FACILITYID>
+      <NAME>Westboro Beach</NAME>
+      <NAME_FR>Plage Westboro</NAME_FR>
+      <ADDRESS>745 Sir John A. Macdonald Parkway</ADDRESS>
+      <POSTAL_CODE>ON K2B 5L7</POSTAL_CODE>
+      <BEACH_TYPE>Plage</BEACH_TYPE>
+      <ACCESSIBLE/>
+      <OPEN/>
+      <NOTES/>
+      <MODIFIED_D>2014/09/29</MODIFIED_D>
+      <CREATED_DA/>
+      <PHOTO>https://s3-media4.fl.yelpcdn.com/bphoto/q3gEpGr9MO5CNLaG-G9PHg/ls.jpg</PHOTO>
+      <LINK>http://ottawa.ca/en/taxonomy/term/2639</LINK>
+      <LINK_LABEL>Beaches</LINK_LABEL>
+      <LINK_LAB_1>Plages</LINK_LAB_1>
+      <LINK_DESCR/>
+      <LINK_DES_1/>
+    <geometry>
+      <type>Point</type>
+      <X>-75.76127098640916</X>
+      <Y>45.39539726038666</Y>
+    </geometry>
+    </properties>
+    <properties>
+      <FACILITYID>36113</FACILITYID>
+      <NAME>Britannia Beach</NAME>
+      <NAME_FR>Plage Britannia</NAME_FR>
+      <ADDRESS>102 Greenview Rd.</ADDRESS>
+      <POSTAL_CODE>V0N 1J0</POSTAL_CODE>
+      <BEACH_TYPE>Plage</BEACH_TYPE>
+      <ACCESSIBLE/>
+      <OPEN/>
+      <NOTES/>
+      <MODIFIED_D>2014/09/29</MODIFIED_D>
+      <CREATED_DA/>
+      <PHOTO>https://outdoorottawa.com/wp-content/uploads/2017/06/britannia-beach-pano.jpg</PHOTO>
+      <LINK>https://www.theswimguide.org/beach/1092?set_language=en</LINK>
+      <LINK_LABEL>Beaches</LINK_LABEL>
+      <LINK_LAB_1>Plages</LINK_LAB_1>
+      <LINK_DESCR/>
+      <LINK_DES_1/>
+    <geometry>
+      <type>Point</type>
+      <X>-75.80137998477915</X>
+      <Y>45.36474037353495</Y>
+    </geometry>
+    </properties>
+    <properties>
+      <FACILITYID>36110</FACILITYID>
+      <NAME>Petrie Island Beach</NAME>
+      <NAME_FR>Plage de l&#x27;île Petrie</NAME_FR>
+      <ADDRESS>795 Trim Rd.</ADDRESS>
+      <POSTAL_CODE>ON K4A 3P4</POSTAL_CODE>
+      <BEACH_TYPE>Plage</BEACH_TYPE>
+      <ACCESSIBLE/>
+      <OPEN/>
+      <NOTES/>
+      <MODIFIED_D>2014/09/29</MODIFIED_D>
+      <CREATED_DA/>
+      <PHOTO>https://outdoorottawa.com/wp-content/uploads/2017/06/petrie-island-east-bay-beach.jpg</PHOTO>
+      <LINK>http://ottawa.ca/en/taxonomy/term/2639</LINK>
+      <LINK_LABEL>Beaches</LINK_LABEL>
+      <LINK_LAB_1>Plages</LINK_LAB_1>
+      <LINK_DESCR/>
+      <LINK_DES_1/>
+      <geometry>
+        <type>Point</type>
+        <X>-75.4933374</X>
+        <Y>45.5058593</Y>
+      </geometry>
+    </properties>
+    <properties>
+      <FACILITYID>36112</FACILITYID>
+      <NAME>Mooney&#x27;s Bay Beach</NAME>
+      <NAME_FR>Plage de Mooney’s Bay</NAME_FR>
+      <ADDRESS>2960 Riverside Dr.</ADDRESS>
+      <POSTAL_CODE>ON K1V 8N4</POSTAL_CODE>
+      <BEACH_TYPE>Plage</BEACH_TYPE>
+      <ACCESSIBLE/>
+      <OPEN/>
+      <NOTES/>
+      <MODIFIED_D>2014/09/29</MODIFIED_D>
+      <CREATED_DA/>
+      <PHOTO>https://outdoorottawa.com/wp-content/uploads/2017/06/mooneys-bay.jpg</PHOTO>
+      <LINK>http://ottawa.ca/en/taxonomy/term/2639</LINK>
+      <LINK_FR>http://ottawa.ca/fr/taxonomy/term/2639</LINK_FR>
+      <LINK_LABEL>Beaches</LINK_LABEL>
+      <LINK_LAB_1>Plages</LINK_LAB_1>
+      <LINK_DESCR/>
+      <LINK_DES_1/>
+    <geometry>
+      <type>Point</type>
+      <X>-75.69353885169848</X>
+      <Y>45.366430674244356</Y>
+    </geometry>
+    </properties>
+  </features>
+</root>
